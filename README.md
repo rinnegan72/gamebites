@@ -3,20 +3,19 @@ This is a game review site that allows a user to enter details about a game and 
 entries include details about the game like its name, publisher and cover art link
 
 ## Add Game page
-![image](https://github.com/rinnegan72/gamebites/assets/69243366/3d9870a6-5b52-49d4-b71f-6c11af675665)
+![image](https://github.com/rinnegan72/gamebites/assets/69243366/64518651-456e-41e6-abbb-55d26a66e15c)
 
 ## Remove Game page
-![image](https://github.com/rinnegan72/gamebites/assets/69243366/5afaf1b2-6753-425d-854d-63310de740a3)
+![image](https://github.com/rinnegan72/gamebites/assets/69243366/89704a70-619b-4620-a5f0-7649ddaeb608)
 
 ## View All Games page
-![image](https://github.com/rinnegan72/gamebites/assets/69243366/0bbb764a-66f8-44a7-a26a-8ecfe66f6786)
+![image](https://github.com/rinnegan72/gamebites/assets/69243366/f598ea82-e3ea-4bec-8e0d-9785acb215da)
 
 ## Edit Game page
-![image](https://github.com/rinnegan72/gamebites/assets/69243366/38e48a72-4d2c-426a-997c-fbcdacdc9c9c)
+![image](https://github.com/rinnegan72/gamebites/assets/69243366/661eb843-151b-453a-a05b-a77a9c1ca609)
 
 ## Search Game page
-![image](https://github.com/rinnegan72/gamebites/assets/69243366/05df454e-ec12-4d5a-96f4-fd44f6c783f2)
-
+![image](https://github.com/rinnegan72/gamebites/assets/69243366/694a2ff6-be6f-4610-a867-c901e375834b)
 
 # Getting Started with Create React App
 

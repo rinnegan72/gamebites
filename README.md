@@ -1,3 +1,23 @@
+# GameBites
+This is a game review site that allows a user to enter details about a game and give their remarks on it.
+entries include details about the game like its name, publisher and cover art link
+
+## Add Game page
+![image](https://github.com/rinnegan72/gamebites/assets/69243366/3d9870a6-5b52-49d4-b71f-6c11af675665)
+
+## Remove Game page
+![image](https://github.com/rinnegan72/gamebites/assets/69243366/5afaf1b2-6753-425d-854d-63310de740a3)
+
+## View All Games page
+![image](https://github.com/rinnegan72/gamebites/assets/69243366/0bbb764a-66f8-44a7-a26a-8ecfe66f6786)
+
+## Edit Game page
+![image](https://github.com/rinnegan72/gamebites/assets/69243366/38e48a72-4d2c-426a-997c-fbcdacdc9c9c)
+
+## Search Game page
+![image](https://github.com/rinnegan72/gamebites/assets/69243366/05df454e-ec12-4d5a-96f4-fd44f6c783f2)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
